@@ -1,0 +1,4 @@
+/mlops
+.mlops
+/__pycache__
+.pytest_cache
